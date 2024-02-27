@@ -1,0 +1,14 @@
+1 - Java é uma plataforma e linguagem de programação.
+2 - A plataforma Java é as variações das liguagens Java, JavaSE,JavaFX e etc...
+3 - Alinguagem Java é uma linguagem de programação verbal pois utiliza de muitas palavras pra um objetivo. Está presente em diversos aparelhos, é uma linguagem essencial e muito visada. 
+4 - Java é uma plataforma e linguagem de programação.
+5 - Um editor de texto é simples (não tem um ambiente integrado).
+6 - É um ambiente integrado com mais opções e facilidade pra programar. 
+7 - Eclipse, VSCODE, IntelliJ, NetBeans e Blue J.
+8 - JVM: Máquina virtual Java.
+9 - Interpreta o código em Java e roda ele em qualquer plataforma
+10 - Projeto é como uma pasta que guarda os pacotes e Classes.
+11 - Pacote é o que guarda a Classe.
+12 - Classe é onde eu escrevo os códigos.
+13 - Operadoras de celular, setor de telecomunicações, instituições financeiras, desenvolvimento de aplicativos móveis e desenvolvedoras de sistemas.
+14 - A plataforma diferencia quando é usado maiúsculo e minúsculo.
